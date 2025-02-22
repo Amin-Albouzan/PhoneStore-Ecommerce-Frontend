@@ -7,7 +7,7 @@
 
 ### Login
 
-![Login](screenshots/Login.png)
+![login](screenshots/login.png)
 
 
 
@@ -31,14 +31,14 @@
 
 ### User Dashboard
 
-![User Dashboard ](screenshots/UserDashboard.png)
+![userDashboard ](screenshots/userDashboard.png)
 
 
 
 
 ### Shopping List
 
-![Shopping List](screenshots/ShopingList.png)
+![shoppingList](screenshots/shopingList.png)
 
 
 
