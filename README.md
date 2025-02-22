@@ -7,4 +7,4 @@
 
 ### admin home
 
-![Admin Home](screenshots/Admin Home.png)
+![Admin Home](screenshots/AdminHome.png)
